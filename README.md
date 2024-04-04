@@ -123,15 +123,6 @@
 <!-- ![ERD](README_assets/e47495e7471ddf38aec7f0152037683f68f513c0.png) -->
 <img src="./README_assets/e47495e7471ddf38aec7f0152037683f68f513c0.png" alt="ERD" width="800">
 
-## 문서 링크
-
----
-
-- [팀 노션]([Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://nonstop-basil-8e5.notion.site/fintech-d8bbd29d3ca24a36aef3a09bdabd5e28))
-
-- [API 명세서](https://nonstop-basil-8e5.notion.site/API-dc66a4b230534c7c8091f42aa53ec28f)
-
-- [기능 명세서](https://nonstop-basil-8e5.notion.site/986107c1b0e146edaa73ebf37f1298be)
 
 ## Git-flow
 

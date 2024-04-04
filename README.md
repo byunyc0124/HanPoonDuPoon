@@ -251,19 +251,3 @@ backend
         └─ MemberQueryRepository
 ```
 
-## 팀원 소개
-
----
-
-![Team](README_assets/daf0d72f7c4c917be4435ffb7e222953d5e77f95.png)
-
-## 맡은 역할
-
-| 이름 | 역할 | 설명 |
-| - | - | - |
-| 홍승준 | 백엔드, 블록체인 담당 | Geth를 활용한 Private Networks 구축, Web3 API를 활용한 서버와 블록체인 네트워크의 통신, Solidity를 활용한 크라우드 펀딩 스마트 컨트랙트 구현, 포인트 API 구현 |
-| 김정훈 | 백엔드 담당 | Redis를 활용한 관심 기업 등록/삭제 기능, SSE API를 활용한 알림 구현, Spring Security + JWT + Redis 로그인 구현, 예외 처리(Customized Exception Handler) 설계, Fast API(뉴스 크롤링, openAI) |
-| 변영채 | 백엔드, 인프라 담당 | 펀딩 관련 CRUD API 구현, 자체 뱅킹 시스템 구현, 쪽지 API 구현, 기업 프로필 페이지 API 구현, EC2, Nginx, Docker-Compose를 활용한 배포, S3 연동 |
-| 김웅서 | 프론트엔드 담당 | 공통 컴포넌트 개발, Auth 관련 기능 구현, Axios Interceptors와 Refresh Token을 이용한 JWT 관리, 토스페이먼츠 API를 활용한 결제 기능 구현, CSS 애니메이션 구현 |
-| 박태규 | 프론트엔드, 블록체인 담당 | Geth를 활용한 Private Networks 구축, Web3 API를 활용한 클라이언트와 블록체인 네트워크의 통신, 자체 뱅킹 서비스 구현, Redis를 활용한 관심 기업 등록/삭제 구현, SSE API와 Toast Library를 활용한 알림 구현 |
-| 장혜원 | 프론트엔드 담당 | 초기 페이지 및 컴포넌트 설정, 펀딩 관련 API 연결 및 쪽지 API, Fast API, 블록체인 데이터 API 연결, 후원 및 기업 관련 디자인 및 CSS 구현 |
